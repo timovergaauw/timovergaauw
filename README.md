@@ -1,5 +1,6 @@
 - 👋 Hi, I’m @timovergaauw
-- 👀 I’m interested in engineering
+- 👀 I’m interested in engineering and programming.
+- im into automation and some 3D printing
 - ⚡ Fun fact: working on too much at same time
 
 <!---
